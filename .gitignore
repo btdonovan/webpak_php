@@ -1,0 +1,10 @@
+mariadb/
+app/vendor/
+app/.cache/
+app/.phpunit.cache/
+app/.phpunit.result.cache
+*.bak
+app/coverage/
+secrets/*
+!secrets/EXAMPLE_*.dist
+!secrets/SECRETS.md
