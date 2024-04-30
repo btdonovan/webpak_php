@@ -1,1 +1,0 @@
-This folder is for psr4 autoload classes and php source code that does not need to be accessible directly from the web browser.

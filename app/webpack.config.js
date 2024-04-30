@@ -3,11 +3,11 @@ const path = require('path');
 
 module.exports = {
     entry: './src/index.js',
-    plugins: [
-        new HtmlWebpackPlugin({
-            title: 'Caching',
-        }),
-    ],
+    // plugins: [
+    //     new HtmlWebpackPlugin({
+    //         title: 'Caching',
+    //     }),
+    // ],
     output: {
         filename: '[name].[contenthash].js',
         path: path.resolve(__dirname, 'public', 'dist'),

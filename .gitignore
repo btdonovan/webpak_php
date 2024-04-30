@@ -8,3 +8,5 @@ app/coverage/
 secrets/*
 !secrets/EXAMPLE_*.dist
 !secrets/SECRETS.md
+app/node_modules/
+app/vendor/
