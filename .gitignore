@@ -10,3 +10,4 @@ secrets/*
 !secrets/SECRETS.md
 app/node_modules/
 app/vendor/
+app/public/dist/
